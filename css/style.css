@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&family=Raleway:wght@300;400;500;600;700;800;900&display=swap');
+
 :root {
     --main-color: #121323;
     --color1: #282A39;
@@ -3121,7 +3122,7 @@ footer hr {
     display: flex;
     align-items: center;
     justify-content: center;
-    border-right: 1px solid #ebebeb;
+    border-right: 1px solid var(--border-color);
     padding: 20px 0px;
 }
 
@@ -3242,4 +3243,251 @@ footer hr {
 .culture-hover:hover{
     transform: scale(1.3) rotate(6deg);
     transition: 1s;
+}
+
+/* service */
+
+.srvce-sec-1{
+    background-color: var(--bg-color1) ;
+    padding: 0px !important;
+    min-height: 500px;
+}
+
+.servce-cntnt h4{
+    color: var(--color5);
+    font-size: 25px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-right: 20px;
+}
+
+.servce-cntnt h3{
+    color: var(--color1);
+    font-family: var(--secondary-font);
+    font-size: 40px;
+    font-weight: 600;
+    margin: 15px 0px;
+    line-height: 50px;
+}
+.servce-cntnt-active{
+    color: var(--color2) !important;
+}
+
+.servce-cntnt-padding{
+    padding: 40px;
+}
+.servce-apps img{
+    width: 35px !important;
+    margin-bottom: 15px;
+    aspect-ratio: 1;
+}
+
+.servce-apps{
+    margin-top: 25px;
+}
+
+.servce-apps p{
+    font-size: 15px;
+    color: var(--color-black);
+    line-height: 20px;
+    margin: 0 0 40px 0;
+    font-weight: 500;
+}
+
+.srvce-img-design img{
+    width: 550px !important;
+    border-radius: 10px;
+    float: right;
+    margin-top: -60px;
+}
+.srvce-img-design{
+    position: relative;
+}
+.srvce-img-design:after{
+    position: absolute;
+    content: "";
+    height: 120px;
+    width: 120px;
+    background-size: 60%;
+    background-image: url(../img/service/service-intersect.png);
+    top: -60px;
+    right: -48px;
+    z-index: 33;
+    background-repeat: no-repeat;
+}
+
+.srvce-sec-2{
+    padding: 120px 0px 200px 0px;
+}
+
+.srvce-img-design-2 img{
+    width: 550px !important;
+    border-radius: 10px;
+}
+
+.srvce-img-design-2{
+    position: relative;
+}
+
+.srvce-img-design-2:after{
+    position: absolute;
+    content: "";
+    height: 120px;
+    width: 120px;
+    background-size: 60%;
+    background-image: url(../img/service/service-intersect.png);
+    top: -48px;
+    left: 0px;
+    transform: rotate(270deg);
+    z-index: 33;
+    background-repeat: no-repeat;
+}
+
+.servce-cntnt ul{
+    margin: 20px 0px 35px 0px;
+    list-style: circle;
+    padding-left: 20px;
+}
+
+.servce-cntnt ul li{
+    margin: 10px 0px;
+    font-size: 15px;
+}
+
+.srv-letstalk-section{
+    padding-bottom: 80px;
+}
+
+/* portfolio */
+
+.blog-banner{
+    height: 500px;
+    position: relative;
+    border-radius: 20px;
+}
+
+.blog-banner img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 20px;
+}
+
+.blog-banner-overlay{
+    left: 0;
+    background: rgb(0 0 0 / 50%);
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+}
+
+.blog-banner-cntnt h4{
+    color: var(--color-black);
+    background-color: var(--bg-color);
+    border-radius: 20px;
+    font-size: 17px;
+    padding: 7px 20px;
+    margin: 0px;
+}
+
+.blog-banner-cntnt h5{
+    color: #C4C4C4;
+    font-size: 16px;
+    margin: 0px 0px 0px 20px;
+    font-weight: 600;
+}
+
+.blog-banner-cntnt h2{
+    color: var(--color-white);
+    font-size: 40px;
+    margin-top: 25px;
+    font-weight: 700;
+    line-height: 60px;
+}
+
+.blog-banner-cntnt{
+    position: absolute;
+    top: 30%;
+    left: 6%;
+    width: 100%;
+}
+
+.blog-carousel .owl-nav{
+    display: flex !important;
+    position: absolute;
+    justify-content: space-between;
+    width: 102%;
+    left: -13px;
+    top: 35%;
+    box-shadow: none;
+    outline: none;
+}
+
+.blog-carousel .owl-nav [class*=owl-]:hover:hover{
+    box-shadow: none !important;
+    outline: none !important;
+    background: none !important;
+}
+
+.blog-tab-cntnt{
+    text-align: center;
+    margin-top: 40px;
+}
+
+.blog-tab-cntnt h4{
+    color: var(--color3);
+    font-size: 20px;
+}
+
+.blog-tab-cntnt h3{
+    color: var(--color-black);
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.blog-tab a {
+    border: 1px solid var(--border-color) !important;
+    padding: 5px 20px;
+    color: #5F6171;
+    margin-bottom: 0px !important;
+    border-radius: 50px !important;
+}
+
+.blog-tab {
+    border: 1px var(--border-color) !important;
+    margin-right: 15px;
+    background-color: #fff;
+    border-radius: 50px !important;
+}
+
+.blog-tab:hover {
+    background: var(--color3);
+    transition: 1s;
+}
+
+.blog-tab a:hover {
+    color: white !important;
+    transition: 0.5s;
+}
+
+.nav-tabs .nav-item.show .nav-link,
+.nav-tabs .nav-link.active {
+    background: var(--color3);
+    color: var(--color-white);
+}
+
+.blog-main-tab{
+    border: none !important;
+    margin-bottom: 20px;
+}
+
+.blog-box{
+    border: 1px solid ;
+}
+
+.blog-box{
+    border: 1px solid var(--border-color);
+    border-radius: 20px;
 }
