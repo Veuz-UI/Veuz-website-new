@@ -4,22 +4,22 @@
 
         // cursor pointer
 
-        // const cursor = document.querySelector(".cursor");
+        const cursor = document.querySelector(".cursor");
 
-        // document.addEventListener("mousemove", (e) => {
-        //     cursor.style.left = e.pageX + -10 + "px";
-        //     cursor.style.top = e.pageY + -10 + "px";
-        // });
+        document.addEventListener("mousemove", (e) => {
+            cursor.style.left = e.pageX + -10 + "px";
+            cursor.style.top = e.pageY + -10 + "px";
+        });
 
-        // //   lines
+        //   lines
 
-        // $.fn.duplicate = function(a, b) {
-        //     var c = [];
-        //     for (var d = 0; d < a; d++) $.merge(c, this.clone(b).get());
-        //     return this.pushStack(c);
-        // };
-        // $("<div class='container full-height'></div>").appendTo(".sec-lines");
-        // $("<div class='line-item'></div>").duplicate(4).appendTo(".sec-lines .container");
+        $.fn.duplicate = function(a, b) {
+            var c = [];
+            for (var d = 0; d < a; d++) $.merge(c, this.clone(b).get());
+            return this.pushStack(c);
+        };
+        $("<div class='container full-height'></div>").appendTo(".sec-lines");
+        $("<div class='line-item'></div>").duplicate(4).appendTo(".sec-lines .container");
 
 
         // nav tab auto change
