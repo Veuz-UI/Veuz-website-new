@@ -4143,3 +4143,499 @@ footer hr {
     margin-top: 60px;
     box-shadow: 0 11px 100px 0 rgba(0, 0, 0, 0.1);
   }
+
+
+  /* ************ */
+  .career-section-padding{
+    padding: 120px 0px;
+  }
+  .tp-platform-img-box img {
+    max-width: inherit;
+    margin-left: -100px;
+    animation: tptranslateX2 4s forwards infinite alternate;
+}
+@keyframes tptranslateX2 {
+    0% {
+      -webkit-transform: translateX(-30px);
+      -moz-transform: translateX(-30px);
+      -ms-transform: translateX(-30px);
+      -o-transform: translateX(-30px);
+      transform: translateX(-30px);
+    }
+    100% {
+      -webkit-transform: translatXY(20px);
+      -moz-transform: translateX(20px);
+      -ms-transform: translateX(20px);
+      -o-transform: translateX(20px);
+      transform: translateX(20px);
+    }
+  }
+
+.row-custom {
+	display: flex;
+    margin: 0 -15px;
+    padding-left: 30px;
+    padding-right: 30px;  
+}
+.col-custom {
+    flex: 0.4;
+    width: 90px;
+    height: 390px;
+    background-size: cover;
+    margin: 15px;
+    background: #f5f3f8;
+    box-shadow: 0px -3px 0px #6b14fa;
+    border-radius: 30px;
+    padding: 50px 50px;
+    transition: 0.3s;
+    cursor: pointer;
+}
+.col-custom.active {
+    flex: 7;
+}
+.col-custom.active .tp-panel-item {
+    display: none;
+}
+.col-custom.active .tp-panel-item-2 {
+    opacity: 1;
+    visibility: visible;
+    transform: scale(1);
+    transition-delay: 0.3s;
+    transition: 0.3s;
+}
+
+.tp-panel-title {
+    width: 250px;
+    transform: rotate(90deg) translate(85px, 115px);
+    font-weight: 500;
+    font-size: 23px;
+    line-height: 20px;
+    color: #000229;
+    opacity: 0.7;
+    margin-bottom: 0;
+}
+.tp-panel-title.child-one {
+    transform: rotate(90deg) translate(85px, 115px);
+}
+.tp-panel-title.child-three {
+    transform: rotate(90deg) translate(92px, 115px);
+}
+.tp-panel-title.child-four {
+    transform: rotate(90deg) translate(129px, 115px);
+}
+.tp-panel-title.child-five {
+    transform: rotate(90deg) translate(93px, 115px);
+}
+.tp-panel-content {
+    text-align: center;
+}
+.tp-panel-content span {
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 28px;
+    color: #41436B;
+    margin-left: -7px;
+}
+.tp-panel-content-2 span {
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 40px;
+    color: #41436B;
+    padding-bottom: 45px;
+    display: inline-block;
+}
+.tp-panel-content-2 p {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 28px;
+    color: #282A39;
+    margin-bottom: 0;
+}
+
+.tp-panel-content-2 span{
+    visibility: hidden;
+    display: inline-block;
+    opacity: 0;
+    transform: translateY(5px);
+    transition-delay: 0.4s;
+}
+  
+.tp-panel-title-2 {
+    transform: translateY(5px);
+    visibility: hidden;
+    opacity: 0;
+    transition-delay: 0.2s;
+}
+  
+.tp-panel-content-2 p {
+    transform: translateY(5px);
+    visibility: hidden;
+    opacity: 0;
+    transition-delay: 0.2s;
+}
+
+.col-custom.active .tp-panel-content-2 span {
+    transform: translateY(0);
+    visibility: visible;
+    opacity: 1;
+    transition-delay: 0.3s;
+  }
+  .col-custom.active .tp-panel-title-2 {
+    transform: translateY(0);
+    visibility: visible;
+    opacity: 1;
+    transition-delay: 0.4s;
+  }
+  .col-custom.active .tp-panel-content-2 p {
+    transform: translateY(0);
+    visibility: visible;
+    opacity: 1;
+    transition-delay: 0.4s;
+  }
+
+.tp-panel-title-2{
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 20px;
+    color: #494967;
+    padding-bottom: 15px;
+}
+.tp-panel-item-2{
+    opacity: 0;
+    visibility: hidden;
+    transform: scale(.7);
+}
+.tp-platform-img-box img {
+	max-width: inherit;
+	margin-left: -100px;
+    animation: tptranslateX2 4s forwards infinite alternate;
+}
+
+.tp-platform-bg{
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.tp-section-title-shape svg {
+    position: absolute;
+    bottom: -2px;
+    left: 60px;
+    z-index: -1;
+}
+
+.career-box-section{
+    margin-top: 50px;
+}
+
+.current-open-head{
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 25px;
+}
+
+.current-open-head p{
+    margin: 25px auto;
+    width: 80%;
+}
+
+
+.job-post-box {
+    background: #F7F9FC;
+    padding: 20px 60px;
+    border-radius: 12px;
+    transform: scaleX(0.9);
+    transition: 0.6s;
+    margin-bottom: 12px;
+  }
+  @media only screen and (min-width: 768px) and (max-width: 991px) {
+    .job-post-box {
+      padding: 20px 20px;
+    }
+  }
+  @media (max-width: 767px) {
+    .job-post-box {
+      padding: 20px 30px;
+    }
+  }
+  .job-post-box:hover {
+    background-color: var(--tp-common-white);
+    box-shadow: 0px 20px 50px rgba(8, 8, 41, 0.08);
+    border-radius: 12px;
+    transform: scaleX(1);
+    position: relative;
+    z-index: 9;
+  }
+  
+  @media (max-width: 767px) {
+    .job-post-wrapper {
+      padding-bottom: 20px;
+    }
+  }
+  
+  .job-post-category span {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 20px;
+    color: #080829;
+    display: inline-block;
+  }
+  @media only screen and (min-width: 768px) and (max-width: 991px) {
+    .job-post-category span {
+      font-size: 16px;
+    }
+  }
+  @media (max-width: 767px) {
+    .job-post-category span {
+      padding-bottom: 20px;
+      font-size: 18px;
+      line-height: 30px;
+    }
+  }
+  .job-post-time {
+    margin-right: 100px;
+  }
+  @media only screen and (min-width: 992px) and (max-width: 1199px) {
+    .job-post-time {
+      margin-right: 50px;
+    }
+  }
+  @media (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px) {
+    .job-post-time {
+      margin-right: 30px;
+    }
+  }
+  .job-post-time span {
+    font-weight: 400;
+    font-size: 16px;
+    color: #080829;
+    margin-left: 5px;
+  }
+
+  .job-post-time span i {
+    flex: 0 0 auto;
+  }
+  @media only screen and (min-width: 992px) and (max-width: 1199px) {
+    .job-post-location {
+      padding-left: 0px;
+    }
+  }
+  @media only screen and (min-width: 768px) and (max-width: 991px) {
+    .job-post-location {
+      padding-left: 30px;
+    }
+  }
+  .job-post-location span {
+    font-weight: 400;
+    font-size: 16px;
+    color: #080829;
+    margin-left: 5px;
+  }
+
+  .tp-btn-inner {
+    display: inline-block;
+    background: #600EE4;
+    color: #fff;
+    height: 48px;
+    line-height: 48px;
+    border-radius: 30px;
+    padding: 0 40px;
+    font-size: 15px;
+    font-weight: 600;
+    text-align: center;
+    text-transform: capitalize;
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+    transition: 0.5s;
+  }
+  .tp-btn-inner span {
+    position: relative;
+    z-index: 5;
+    transition: 0.3s;
+    transition-delay: 0.3s;
+    color: #fff;
+    display: inline-block;
+    transform: translateY(-2px);
+  }
+  .tp-btn-inner:hover span {
+    color: #fff;
+    transition-delay: 0.1s;
+  }
+  .current-opening .job-post-box:last-child{
+    margin-bottom: 0px !important;
+  }
+
+  @media only screen and (max-width: 1440px) {
+    .col-custom{
+        padding: 35px 35px;
+    }
+  }
+
+@media only screen and (max-width: 1366px) {
+    .job-post-box{
+        transform: scaleX(0.95);
+        padding: 20px 40px;
+    }
+    .job-post-time {
+        margin-right: 65px;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    .row-custom{
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .current-open-head p{
+        width: 95%;
+    }
+    .job-post-category span{
+        font-size: 18px;
+        line-height: 22px;
+    }
+}
+
+
+@media only screen and (max-width: 768px) {
+    .col-custom{
+        width: 100%;
+        height: auto;
+        margin: 0px 0px 20px 0px;
+    }
+    .row-custom {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .row-custom {
+        display: block;
+    }
+    .col-custom .tp-panel-item {
+        display: none;
+    }
+    .col-custom .tp-panel-item-2 {
+        opacity: 1;
+        visibility: visible;
+        transform: scale(1);
+        transition-delay: 0.3s;
+        transition: 0.3s;
+    }
+    .col-custom .tp-panel-content-2 span {
+        font-size: 40px;
+        padding-bottom: 35px;
+        transform: translateY(0);
+        visibility: visible;
+        opacity: 1;
+        transition-delay: 0.3s;
+    }
+    .col-custom .tp-panel-title-2 {
+        font-size: 24px;
+        transform: translateY(0);
+        visibility: visible;
+        opacity: 1;
+        transition-delay: 0.4s;
+    }
+    .col-custom .tp-panel-content-2 p {
+        transform: translateY(0);
+        visibility: visible;
+        opacity: 1;
+        transition-delay: 0.4s;
+    }
+    .career-box-section {
+        margin-top: 35px;
+    }
+    .current-open-head {
+        margin-top: 35px;
+        margin-bottom: 20px;
+    }
+    .job-post-category span {
+        font-size: 20px;
+        line-height: 22px;
+        margin-bottom: 20px;
+        font-weight: 600;
+    }
+    .job-post-time span, .job-post-location span{
+        font-size: 18px;
+    }
+    .job-post-apply-btn{
+        text-align: left !important;
+    }
+    .job-post-wrapper{
+        margin-bottom: 20px;
+    }
+    .tp-btn-inner{
+        height: 40px;
+        line-height: 15px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: fit-content;
+        border-radius: 30px;
+        padding: 0 40px;
+        font-size: 15px;
+    }
+    .job-post-box {
+        transform: scaleX(1);
+        padding: 30px 30px;
+    }
+    .career-section-padding {
+        padding: 80px 0px;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .career-section-padding {
+        padding: 40px 0px;
+    }
+    .col-custom {
+        padding: 20px;
+        border-radius: 10px;
+    }
+    .col-custom .tp-panel-content-2 span {
+        font-size: 35px;
+        padding-bottom: 20px;
+    }
+    .col-custom .tp-panel-title-2 {
+        font-size: 20px;
+        padding-bottom: 10px;
+    }
+    .tp-panel-content-2 p{
+        font-size: 13px;
+        line-height: 25px;
+    }
+    .current-open-head {
+        margin-top: 10px;
+        margin-bottom: 25px;
+        text-align: left;
+    }
+    .current-open-head p {
+        width: 100%;
+        font-size: 14px;
+        margin: 0px auto;
+    }
+    .job-post-box {
+        padding: 20px;
+        border-radius: 10px;
+    }
+    .job-post-category span {
+        font-size: 18px;
+        line-height: 18px;
+        margin-bottom: 0px;
+    }
+    .job-post-time {
+        margin-right: 30px;
+    }
+    .job-post-time span, .job-post-location span {
+        font-size: 14px;
+    }
+    .job-post-wrapper {
+        margin-bottom: 0px;
+    }
+    .tp-btn-inner {
+        height: 36px;
+        line-height: 14px;
+        padding: 0 35px;
+        font-size: 14px;
+    }
+}
