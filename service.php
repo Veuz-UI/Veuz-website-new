@@ -76,7 +76,7 @@
 
     <section class="abt-section-padding">
         <div class="container">
-            <div class="row d-flex align-items-center">
+            <div class="row d-flex align-items-center" data-aos="fade-up" data-aos-duration="2000">
                 <div class="col-lg-4">
                     <h2 class="main-head">Ingenious designers
                         and <span>developers</span> crazy
@@ -97,7 +97,7 @@
     <section class="srvce-sec-1">
         <div class="container">
            <div class="row">
-            <div class="col-lg-6">
+            <div class="col-lg-6" data-aos="fade-right" data-aos-duration="2000">
                 <div class="servce-cntnt servce-cntnt-padding">
                     <h3>Website development </h3>
                     <p>With more than a thousand plus happy customers, a decade of experience, and
@@ -136,7 +136,7 @@
                             </div>
                         </div>
 
-                        <a href="#"> <button type="button" class="button1 button2">
+                        <a href="service-detail.php"> <button type="button" class="button1 button2">
                             <span >Explore services</span>
                         </button></a>
                 </div>
@@ -159,7 +159,7 @@
                         <img src="img/service/srvce-img-2.png" alt="" class="img-fluid">
                     </div>
                 </div>
-                <div class="col-lg-6">
+                <div class="col-lg-6" data-aos="fade-left" data-aos-duration="2000">
                     <div class="servce-cntnt">
                         <h3>Mobile application 
                             development </h3>
@@ -198,7 +198,7 @@
                                 </div>
                             </div>
     
-                            <a href="#"> <button type="button" class="button1 button2">
+                            <a href="service-detail.php"> <button type="button" class="button1 button2">
                                 <span >Explore services</span>
                             </button></a>
                     </div>
@@ -211,7 +211,7 @@
     <section class="srvce-sec-1">
         <div class="container">
            <div class="row">
-            <div class="col-lg-6">
+            <div class="col-lg-6" data-aos="fade-right" data-aos-duration="2000">
                 <div class="servce-cntnt servce-cntnt-padding">
                     <h3>UI/UX design </h3>
                     <p>With more than a thousand plus happy customers, a decade of experience, and
@@ -245,7 +245,7 @@
                                 
                         </div>
 
-                        <a href="#"> <button type="button" class="button1 button2">
+                        <a href="service-detail.php"> <button type="button" class="button1 button2">
                             <span >Explore services</span>
                         </button></a>
                 </div>
@@ -268,7 +268,7 @@
                         <img src="img/service/srvce-img-2.png" alt="" class="img-fluid">
                     </div>
                 </div>
-                <div class="col-lg-6">
+                <div class="col-lg-6" data-aos="fade-left" data-aos-duration="2000">
                     <div class="servce-cntnt">
                         <h3>Digital Marketing</h3>
                         <p>With more than a thousand plus happy customers, a decade of experience, and
@@ -299,7 +299,7 @@
                                 <li>Content Writing and Marketing</li>
                             </ul>
     
-                            <a href="#"> <button type="button" class="button1 button2">
+                            <a href="service-detail.php"> <button type="button" class="button1 button2">
                                 <span >Explore services</span>
                             </button></a>
                     </div>

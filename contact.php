@@ -77,7 +77,7 @@
 
     <section class="abt-section-padding">
         <div class="container">
-            <div class="row gx-5 d-flex align-items-center">
+            <div class="row gx-5 d-flex align-items-center" data-aos="fade-up" data-aos-duration="2000">
                 <div class="col-lg-9">
                     <h2 class="main-head">Get in <span>Touch</span> 
                     </h2>
@@ -96,9 +96,9 @@
 
             <div class="contact-main-inputs ">
                 <div class="row gx-5">
-                    <div class="col-lg-4">
+                    <div class="col-lg-4" data-aos="fade-right" data-aos-duration="2000">
                         <h6>Contact Us</h6>
-                        <h3>We’d love <br> to 
+                        <h3>We'd love <br> to 
                             hear From 
                              <span><i class="fas fa-paper-plane"></i> </span>
                             you.</h3>
@@ -117,7 +117,7 @@
                             <img src="img/contact/form-img.png" alt="" class="img-fluid form-img">
                            </div>
                     </div>
-                    <div class="col-lg-8">
+                    <div class="col-lg-8" data-aos="fade-left" data-aos-duration="2000">
                             <div class="row">
                                 <div class="col-lg-6">
                                     <input type="name" placeholder="First Name" class="form-control">
@@ -202,7 +202,7 @@
                 </div>
             </div>
 
-            <div class="enquiry-main-div">
+            <div class="enquiry-main-div" data-aos="fade-up" data-aos-duration="2000">
                 <div class="row">
                     <div class="col-lg-4">
                         <div class="enquiry-main-cntnt">
@@ -238,7 +238,7 @@
             </div>
 
             <div class="row gx-5">
-                <div class="col-lg-4">
+                <div class="col-lg-4" data-aos="fade-up" data-aos-duration="2000">
                     <div class="location-div">
                         <img src="img/contact/india.png" alt="">
                         <h2>INDIA</h2>
@@ -261,7 +261,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4">
+                <div class="col-lg-4" data-aos="fade-up" data-aos-duration="2000">
                     <div class="location-div">
                         <img src="img/contact/saudhi.png" alt="">
                         <h2>SAUDI ARABIA</h2>
@@ -284,7 +284,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4">
+                <div class="col-lg-4" data-aos="fade-up" data-aos-duration="2000">
                     <div class="location-div">
                         <img src="img/contact/uae.png" alt="">
                         <h2>UAE</h2>

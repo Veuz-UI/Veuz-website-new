@@ -77,7 +77,7 @@
     <section class="srvce-sec-">
         <div class="container">
            <div class="row">
-            <div class="col-lg-6">
+            <div class="col-lg-6" data-aos="fade-right" data-aos-duration="2000">
                 <div class="servce-cntnt servce-cntnt-padding">
                     <h3>Mobile application development</h3>
                     <p>Mobile apps are now as important as food, water and air for our continued existence in this digitally dominated era. Tapping into this market with billions of users is the most logical thing to do if you are a business. Having a flawless app is of paramount importance. As a leading mobile app development company in Saudi with clients all over the world, Veuz Concepts can take that trouble off your hands and create the perfect app solutions for your businesses.</p>

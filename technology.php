@@ -78,7 +78,7 @@
     <section class="technology-padding">
             <div class="container">
                     <div class="row d-flex align-items-center">
-                        <div class="col-lg-4">
+                        <div class="col-lg-4" data-aos="fade-right" data-aos-duration="2000">
                             <div class="technology-head">
                                 <h3>We are experts in 
                                     modern front end
@@ -86,7 +86,7 @@
                                     <img src="img/technology/technology-main-img.png" alt="" class="img-fluid">
                             </div>
                         </div>
-                        <div class="col-lg-8">
+                        <div class="col-lg-8" data-aos="fade-left" data-aos-duration="2000">
                             <h2 class="main-head">Frontend <span>Technologies</span>  
                             </h2>
                             <p>We are experts in modern front end technology and can help you build the user experience you envision. If your 
@@ -175,7 +175,7 @@
 
     <section class="technology-padding">
         <div class="container">
-            <div class="row">
+            <div class="row" data-aos="fade-up" data-aos-duration="2000">
                 <div class="text-center">
                     <h2 class="main-head">Backend <span>Technologies</span>  
                     </h2> 
@@ -254,12 +254,12 @@
     <section class="technology-padding-bottom">
         <div class="container">
             <div class="row d-flex align-items-center">
-                <div class="col-lg-6">
+                <div class="col-lg-6" data-aos="fade-right" data-aos-duration="2000">
                     <h2 class="main-head">Frontend <span>Technologies</span>  
                     </h2>
                     <p>We do it all just because we love it! Our team is a group of professional and enthusiastic individuals who are continuously learning and always up to the new challenges. We have keen expertise in open source development frameworks, through which we aim to give you the best results possible. Our solutions will not only be aesthetically pleasing but also fully functional and optimised for ease of use.</p>
                 </div>
-                <div class="col-lg-6">
+                <div class="col-lg-6" data-aos="fade-left" data-aos-duration="2000">
                     <div class="row">
                         <div class="col-lg-4">
                             <div class="logo-box">

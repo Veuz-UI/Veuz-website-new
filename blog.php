@@ -166,7 +166,7 @@
                                             </h5>
                                             <h3>October 20, 2022</h3>
                                         </div>
-                                        <a href="img/blog-detail.php">
+                                        <a href="blog-detail.php">
                                             <h2>Web Devolvement Company
                                                 In Saudi Arabia: 
                                                 A BOOMING INDUSTRY</h2>
@@ -243,7 +243,7 @@
                                             </h5>
                                             <h3>October 20, 2022</h3>
                                         </div>
-                                        <a href="img/blog-detail.php">
+                                        <a href="blog-detail.php">
                                             <h2>Web Devolvement Company
                                                 In Saudi Arabia: 
                                                 A BOOMING INDUSTRY</h2>
@@ -320,7 +320,7 @@
                                             </h5>
                                             <h3>October 20, 2022</h3>
                                         </div>
-                                        <a href="img/blog-detail.php">
+                                        <a href="blog-detail.php">
                                             <h2>Web Devolvement Company
                                                 In Saudi Arabia: 
                                                 A BOOMING INDUSTRY</h2>
@@ -402,7 +402,7 @@
                                             </h5>
                                             <h3>October 20, 2022</h3>
                                         </div>
-                                        <a href="img/blog-detail.php">
+                                        <a href="blog-detail.php">
                                             <h2>Web Devolvement Company
                                                 In Saudi Arabia: 
                                                 A BOOMING INDUSTRY</h2>
@@ -479,7 +479,7 @@
                                             </h5>
                                             <h3>October 20, 2022</h3>
                                         </div>
-                                        <a href="img/blog-detail.php">
+                                        <a href="blog-detail.php">
                                             <h2>Web Devolvement Company
                                                 In Saudi Arabia: 
                                                 A BOOMING INDUSTRY</h2>
@@ -556,7 +556,7 @@
                                             </h5>
                                             <h3>October 20, 2022</h3>
                                         </div>
-                                        <a href="img/blog-detail.php">
+                                        <a href="blog-detail.php">
                                             <h2>Web Devolvement Company
                                                 In Saudi Arabia: 
                                                 A BOOMING INDUSTRY</h2>
@@ -637,7 +637,7 @@
                                             </h5>
                                             <h3>October 20, 2022</h3>
                                         </div>
-                                        <a href="img/blog-detail.php">
+                                        <a href="blog-detail.php">
                                             <h2>Web Devolvement Company
                                                 In Saudi Arabia: 
                                                 A BOOMING INDUSTRY</h2>
@@ -714,7 +714,7 @@
                                             </h5>
                                             <h3>October 20, 2022</h3>
                                         </div>
-                                        <a href="img/blog-detail.php">
+                                        <a href="blog-detail.php">
                                             <h2>Web Devolvement Company
                                                 In Saudi Arabia: 
                                                 A BOOMING INDUSTRY</h2>
@@ -791,7 +791,7 @@
                                             </h5>
                                             <h3>October 20, 2022</h3>
                                         </div>
-                                        <a href="img/blog-detail.php">
+                                        <a href="blog-detail.php">
                                             <h2>Web Devolvement Company
                                                 In Saudi Arabia: 
                                                 A BOOMING INDUSTRY</h2>
@@ -872,7 +872,7 @@
                                             </h5>
                                             <h3>October 20, 2022</h3>
                                         </div>
-                                        <a href="img/blog-detail.php">
+                                        <a href="blog-detail.php">
                                             <h2>Web Devolvement Company
                                                 In Saudi Arabia: 
                                                 A BOOMING INDUSTRY</h2>
@@ -949,7 +949,7 @@
                                             </h5>
                                             <h3>October 20, 2022</h3>
                                         </div>
-                                        <a href="img/blog-detail.php">
+                                        <a href="blog-detail.php">
                                             <h2>Web Devolvement Company
                                                 In Saudi Arabia: 
                                                 A BOOMING INDUSTRY</h2>
@@ -1026,7 +1026,7 @@
                                             </h5>
                                             <h3>October 20, 2022</h3>
                                         </div>
-                                        <a href="img/blog-detail.php">
+                                        <a href="blog-detail.php">
                                             <h2>Web Devolvement Company
                                                 In Saudi Arabia: 
                                                 A BOOMING INDUSTRY</h2>
@@ -1107,7 +1107,7 @@
                                             </h5>
                                             <h3>October 20, 2022</h3>
                                         </div>
-                                        <a href="img/blog-detail.php">
+                                        <a href="blog-detail.php">
                                             <h2>Web Devolvement Company
                                                 In Saudi Arabia: 
                                                 A BOOMING INDUSTRY</h2>
@@ -1184,7 +1184,7 @@
                                             </h5>
                                             <h3>October 20, 2022</h3>
                                         </div>
-                                        <a href="img/blog-detail.php">
+                                        <a href="blog-detail.php">
                                             <h2>Web Devolvement Company
                                                 In Saudi Arabia: 
                                                 A BOOMING INDUSTRY</h2>
@@ -1261,7 +1261,7 @@
                                             </h5>
                                             <h3>October 20, 2022</h3>
                                         </div>
-                                        <a href="img/blog-detail.php">
+                                        <a href="blog-detail.php">
                                             <h2>Web Devolvement Company
                                                 In Saudi Arabia: 
                                                 A BOOMING INDUSTRY</h2>
@@ -1342,7 +1342,7 @@
                                             </h5>
                                             <h3>October 20, 2022</h3>
                                         </div>
-                                        <a href="img/blog-detail.php">
+                                        <a href="blog-detail.php">
                                             <h2>Web Devolvement Company
                                                 In Saudi Arabia: 
                                                 A BOOMING INDUSTRY</h2>
@@ -1419,7 +1419,7 @@
                                             </h5>
                                             <h3>October 20, 2022</h3>
                                         </div>
-                                        <a href="img/blog-detail.php">
+                                        <a href="blog-detail.php">
                                             <h2>Web Devolvement Company
                                                 In Saudi Arabia: 
                                                 A BOOMING INDUSTRY</h2>
@@ -1496,7 +1496,7 @@
                                             </h5>
                                             <h3>October 20, 2022</h3>
                                         </div>
-                                        <a href="img/blog-detail.php">
+                                        <a href="blog-detail.php">
                                             <h2>Web Devolvement Company
                                                 In Saudi Arabia: 
                                                 A BOOMING INDUSTRY</h2>

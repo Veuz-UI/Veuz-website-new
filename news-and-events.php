@@ -80,7 +80,7 @@
                 <div class="row gx-3">
                     <div class="col-lg-4">
                         <div class="news-grid grid-hight-1" data-aos="fade-up" data-aos-duration="2000">
-                             <a href="news-and-events-detail">
+                             <a href="news-and-events-detail.php">
                                 <div class="link-arrow">
                                     <i class="fas fa-arrow-up"></i>
                                 </div>
@@ -95,7 +95,7 @@
                             </div>
                         </div>
                         <div class="news-grid grid-hight-2" data-aos="fade-up" data-aos-duration="2000">
-                             <a href="news-and-events-detail">
+                             <a href="news-and-events-detail.php">
                                 <div class="link-arrow">
                                     <i class="fas fa-arrow-up"></i>
                                 </div>
@@ -112,7 +112,7 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="news-grid grid-hight-2" data-aos="fade-up" data-aos-duration="2000">
-                            <a href="news-and-events-detail">
+                            <a href="news-and-events-detail.php">
                                 <div class="link-arrow">
                                     <i class="fas fa-arrow-up"></i>
                                 </div>
@@ -127,7 +127,7 @@
                             </div>
                         </div>
                         <div class="news-grid grid-hight-1" data-aos="fade-up" data-aos-duration="2000">
-                             <a href="news-and-events-detail">
+                             <a href="news-and-events-detail.php">
                                 <div class="link-arrow">
                                     <i class="fas fa-arrow-up"></i>
                                 </div>
@@ -144,7 +144,7 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="news-grid grid-hight-1" data-aos="fade-up" data-aos-duration="2000">
-                             <a href="news-and-events-detail">
+                             <a href="news-and-events-detail.php">
                                 <div class="link-arrow">
                                     <i class="fas fa-arrow-up"></i>
                                 </div>
@@ -159,7 +159,7 @@
                             </div>
                         </div>
                         <div class="news-grid grid-hight-2" data-aos="fade-up" data-aos-duration="2000">
-                             <a href="news-and-events-detail">
+                             <a href="news-and-events-detail.php">
                                 <div class="link-arrow">
                                     <i class="fas fa-arrow-up"></i>
                                 </div>
