@@ -8,7 +8,6 @@
     <title>Veuz</title>
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="font-awsome/css/all.min.css">
-    <!-- <link rel="stylesheet" href="css/boxicon.min.css"> -->
     <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
     <link rel="stylesheet" href="css/owl.carousel.min.css">
     <link rel="stylesheet" href="css/owl.theme.default.min.css">
@@ -260,7 +259,7 @@
         </div>
     </section>
  
-    <section class="srvce-sec-2">
+    <section class="srvce-sec-2 responsive-padding">
         <div class="container">
             <div class="row d-flex align-items-center">
                 <div class="col-lg-6">
