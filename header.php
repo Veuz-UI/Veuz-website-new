@@ -14,9 +14,9 @@
                         <li><a href="index.php">Home</a></li>
                         <li><a href="about.php">About</a></li>
                         <li><a href="service.php">Solutions</a></li>
-                        <li><a href="#">Portfolio</a></li>
-                        <li><a href="#">What we do</a></li>
-                        <li><a href="blog.php">Insight</a></li>
+                        <li><a href="portfolio.php">Portfolio</a></li>
+                        <li><a href="technology.php">Technology</a></li>
+                        <li><a href="#">Insight</a></li>
                         <li><a href="career.php">Careers</a></li>
                         <li><a href="contact.php">Contact us</a></li>
                     </ul>

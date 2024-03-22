@@ -92,29 +92,29 @@
                     <div class="second-div">
                         <h5>Company</h5>
                         <ul>
-                            <li><a href="#">Blog</a></li>
+                            <li><a href="blog.php">Blog</a></li>
                             <li><a href="#">Life @ Veuz</a></li>
                             <li><a href="#">Process</a></li>
-                            <li><a href="#">Contact Us</a></li>
+                            <li><a href="contact.php">Contact Us</a></li>
                         </ul>
                     </div>
                     <div class="second-div third-div">
                         <h5>Why Veuz</h5>
                         <ul>
-                            <li><a href="#">Portfolio</a></li>
+                            <li><a href="portfolio.php">Portfolio</a></li>
                             <li><a href="#">Testimonials</a></li>
-                            <li><a href="#">Careers</a></li>
+                            <li><a href="career.php">Careers</a></li>
                             <li><a href="#">Resources</a></li>
                         </ul>
                     </div>
                     <div class="second-div four-div">
                         <h5>Services</h5>
                         <ul>
-                            <li><a href="#">Website development </a></li>
-                            <li><a href="#">Mobile application development </a></li>
-                            <li><a href="#">UI/UX design </a></li>
-                            <li><a href="#">Digital Marketing</a></li>
-                            <li><a href="#">Cyber security</a></li>
+                            <li><a href="service-detail.php">Website development </a></li>
+                            <li><a href="service-detail.php">Mobile application development </a></li>
+                            <li><a href="service-detail.php">UI/UX design </a></li>
+                            <li><a href="service-detail.php">Digital Marketing</a></li>
+                            <li><a href="service-detail.php">Cyber security</a></li>
                         </ul>
                     </div>
                     <div class="five-div">

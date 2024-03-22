@@ -400,7 +400,7 @@
       var ellipsestext = "...";
   
       $(".truncate").each(function() {
-        var content = $(this).html();
+        var content = $(this).php();
         if (content.length > showChar) {
           var c = content.substr(0, showChar);
           var h = content;
@@ -413,7 +413,7 @@
             h +
             '<a href="" class="moreless less">Less</a></span></div>';
   
-          $(this).html(html);
+          $(this).php(html);
         }
       });
   
